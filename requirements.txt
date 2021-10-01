@@ -14,14 +14,8 @@ colorama==0.4.3
 constantly==15.1.0
 cryptography==2.8
 dbus-python==1.2.16
-defer==1.0.6
-deluge==2.0.3
-distlib==0.3.1
-distro==1.4.0
-distro-info===0.23ubuntu1
 dj-database-url==0.5.0
 Django==3.2.6
-dlib==19.22.99
 docopt==0.6.2
 duplicity==0.8.12.0
 entrypoints==0.3
